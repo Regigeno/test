@@ -1,0 +1,18 @@
+[
+  {
+    "content": "POC: Verify OpenRouter owl-alpha model works",
+    "status": "completed"
+  },
+  {
+    "content": "Build backend chat API with streaming support and conversation storage",
+    "status": "completed"
+  },
+  {
+    "content": "Build beautiful frontend chat UI (Prototype-OA)",
+    "status": "completed"
+  },
+  {
+    "content": "Test end-to-end with testing agent",
+    "status": "in_progress"
+  }
+]
